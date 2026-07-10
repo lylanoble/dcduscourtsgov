@@ -269,8 +269,8 @@ table {
 
 @font-face {
     font-family: opensans-regular;
-    src: url(css/fonts/opensans-regular-webfont.eot);
-    src: url(css/fonts/opensans-regular-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-regular-webfont.woff) format("woff"),url(css/fonts/opensans-regular-webfont.ttf) format("truetype"),url(css/fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
+    src: url(fonts/opensans-regular-webfont.eot);
+    src: url(fonts/opensans-regular-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-regular-webfont.woff) format("woff"),url(fonts/opensans-regular-webfont.ttf) format("truetype"),url(fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
     font-weight: 400;
     font-style: normal;
 }
@@ -278,14 +278,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-regular;
-        src: url(css/fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
+        src: url(fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-bold;
-    src: url(css/fonts/opensans-bold-webfont.eot);
-    src: url(css/fonts/opensans-bold-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-bold-webfont.woff) format("woff"),url(css/fonts/opensans-bold-webfont.ttf) format("truetype"),url(css/fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
+    src: url(fonts/opensans-bold-webfont.eot);
+    src: url(fonts/opensans-bold-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-bold-webfont.woff) format("woff"),url(fonts/opensans-bold-webfont.ttf) format("truetype"),url(fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
     font-weight: 600;
     font-style: normal;
 }
@@ -293,14 +293,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-bold;
-        src: url(css/fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
+        src: url(fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-italic;
-    src: url(css/fonts/opensans-italic-webfont.eot);
-    src: url(css/fonts/opensans-italic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-italic-webfont.woff) format("woff"),url(css/fonts/opensans-italic-webfont.ttf) format("truetype"),url(css/fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
+    src: url(fonts/opensans-italic-webfont.eot);
+    src: url(fonts/opensans-italic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-italic-webfont.woff) format("woff"),url(fonts/opensans-italic-webfont.ttf) format("truetype"),url(fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
     font-weight: 400;
     font-style: normal;
 }
@@ -308,14 +308,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-italic;
-        src: url(css/fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
+        src: url(fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-bolditalic;
-    src: url(css/fonts/opensans-bolditalic-webfont.eot);
-    src: url(css/fonts/opensans-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-bolditalic-webfont.woff) format("woff"),url(css/fonts/opensans-bolditalic-webfont.ttf) format("truetype"),url(css/fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
+    src: url(fonts/opensans-bolditalic-webfont.eot);
+    src: url(fonts/opensans-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-bolditalic-webfont.woff) format("woff"),url(fonts/opensans-bolditalic-webfont.ttf) format("truetype"),url(fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
     font-weight: 600;
     font-style: normal;
 }
@@ -323,14 +323,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-bolditalic;
-        src: url(css/fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
+        src: url(fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-regular;
-    src: url(css/fonts/merriweather-regular-webfont.eot);
-    src: url(css/fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-regular-webfont.woff) format("woff"),url(css/fonts/merriweather-regular-webfont.ttf) format("truetype"),url(css/fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
+    src: url(fonts/merriweather-regular-webfont.eot);
+    src: url(fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-regular-webfont.woff) format("woff"),url(fonts/merriweather-regular-webfont.ttf) format("truetype"),url(fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -338,14 +338,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-regular;
-        src: url(css/fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
+        src: url(fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-bold;
-    src: url(css/fonts/merriweather-bold-webfont.eot);
-    src: url(css/fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-bold-webfont.woff) format("woff"),url(css/fonts/merriweather-bold-webfont.ttf) format("truetype"),url(css/fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
+    src: url(fonts/merriweather-bold-webfont.eot);
+    src: url(fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-bold-webfont.woff) format("woff"),url(fonts/merriweather-bold-webfont.ttf) format("truetype"),url(fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -353,14 +353,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-bold;
-        src: url(css/fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
+        src: url(fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-italic;
-    src: url(css/fonts/merriweather-italic-webfont.eot);
-    src: url(css/fonts/merriweather-italic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-italic-webfont.woff) format("woff"),url(css/fonts/merriweather-italic-webfont.ttf) format("truetype"),url(css/fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
+    src: url(fonts/merriweather-italic-webfont.eot);
+    src: url(fonts/merriweather-italic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-italic-webfont.woff) format("woff"),url(fonts/merriweather-italic-webfont.ttf) format("truetype"),url(fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -368,14 +368,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-italic;
-        src: url(css/fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
+        src: url(fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-bolditalic;
-    src: url(css/fonts/merriweather-bolditalic-webfont.eot);
-    src: url(css/fonts/merriweather-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-bolditalic-webfont.woff) format("woff"),url(css/fonts/merriweather-bolditalic-webfont.ttf) format("truetype"),url(css/fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
+    src: url(fonts/merriweather-bolditalic-webfont.eot);
+    src: url(fonts/merriweather-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-bolditalic-webfont.woff) format("woff"),url(fonts/merriweather-bolditalic-webfont.ttf) format("truetype"),url(fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -383,7 +383,7 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-bolditalic;
-        src: url(css/fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
+        src: url(fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
     }
 }
 
@@ -2087,8 +2087,8 @@ table {
 
 @font-face {
     font-family: opensans-regular;
-    src: url(css/fonts/opensans-regular-webfont.eot);
-    src: url(css/fonts/opensans-regular-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-regular-webfont.woff) format("woff"),url(css/fonts/opensans-regular-webfont.ttf) format("truetype"),url(css/fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
+    src: url(fonts/opensans-regular-webfont.eot);
+    src: url(fonts/opensans-regular-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-regular-webfont.woff) format("woff"),url(fonts/opensans-regular-webfont.ttf) format("truetype"),url(fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
     font-weight: 400;
     font-style: normal;
 }
@@ -2096,14 +2096,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-regular;
-        src: url(css/fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
+        src: url(fonts/opensans-regular-webfont.svg#opensans-regular) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-bold;
-    src: url(css/fonts/opensans-bold-webfont.eot);
-    src: url(css/fonts/opensans-bold-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-bold-webfont.woff) format("woff"),url(css/fonts/opensans-bold-webfont.ttf) format("truetype"),url(css/fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
+    src: url(fonts/opensans-bold-webfont.eot);
+    src: url(fonts/opensans-bold-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-bold-webfont.woff) format("woff"),url(fonts/opensans-bold-webfont.ttf) format("truetype"),url(fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
     font-weight: 600;
     font-style: normal;
 }
@@ -2111,14 +2111,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-bold;
-        src: url(css/fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
+        src: url(fonts/opensans-bold-webfont.svg#opensans-bold) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-italic;
-    src: url(css/fonts/opensans-italic-webfont.eot);
-    src: url(css/fonts/opensans-italic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-italic-webfont.woff) format("woff"),url(css/fonts/opensans-italic-webfont.ttf) format("truetype"),url(css/fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
+    src: url(fonts/opensans-italic-webfont.eot);
+    src: url(fonts/opensans-italic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-italic-webfont.woff) format("woff"),url(fonts/opensans-italic-webfont.ttf) format("truetype"),url(fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
     font-weight: 400;
     font-style: normal;
 }
@@ -2126,14 +2126,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-italic;
-        src: url(css/fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
+        src: url(fonts/opensans-italic-webfont.svg#opensans-italic) format("svg");
     }
 }
 
 @font-face {
     font-family: opensans-bolditalic;
-    src: url(css/fonts/opensans-bolditalic-webfont.eot);
-    src: url(css/fonts/opensans-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/opensans-bolditalic-webfont.woff) format("woff"),url(css/fonts/opensans-bolditalic-webfont.ttf) format("truetype"),url(css/fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
+    src: url(fonts/opensans-bolditalic-webfont.eot);
+    src: url(fonts/opensans-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/opensans-bolditalic-webfont.woff) format("woff"),url(fonts/opensans-bolditalic-webfont.ttf) format("truetype"),url(fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
     font-weight: 600;
     font-style: normal;
 }
@@ -2141,14 +2141,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:opensans-bolditalic;
-        src: url(css/fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
+        src: url(fonts/opensans-bolditalic-webfont.svg#opensans-bolditalic) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-regular;
-    src: url(css/fonts/merriweather-regular-webfont.eot);
-    src: url(css/fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-regular-webfont.woff) format("woff"),url(css/fonts/merriweather-regular-webfont.ttf) format("truetype"),url(css/fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
+    src: url(fonts/merriweather-regular-webfont.eot);
+    src: url(fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-regular-webfont.woff) format("woff"),url(fonts/merriweather-regular-webfont.ttf) format("truetype"),url(fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -2156,14 +2156,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-regular;
-        src: url(css/fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
+        src: url(fonts/merriweather-regular-webfont.svg#merriweather-regular) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-bold;
-    src: url(css/fonts/merriweather-bold-webfont.eot);
-    src: url(css/fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-bold-webfont.woff) format("woff"),url(css/fonts/merriweather-bold-webfont.ttf) format("truetype"),url(css/fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
+    src: url(fonts/merriweather-bold-webfont.eot);
+    src: url(fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-bold-webfont.woff) format("woff"),url(fonts/merriweather-bold-webfont.ttf) format("truetype"),url(fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -2171,14 +2171,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-bold;
-        src: url(css/fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
+        src: url(fonts/merriweather-bold-webfont.svg#merriweather-bold) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-italic;
-    src: url(css/fonts/merriweather-italic-webfont.eot);
-    src: url(css/fonts/merriweather-italic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-italic-webfont.woff) format("woff"),url(css/fonts/merriweather-italic-webfont.ttf) format("truetype"),url(css/fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
+    src: url(fonts/merriweather-italic-webfont.eot);
+    src: url(fonts/merriweather-italic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-italic-webfont.woff) format("woff"),url(fonts/merriweather-italic-webfont.ttf) format("truetype"),url(fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -2186,14 +2186,14 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-italic;
-        src: url(css/fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
+        src: url(fonts/merriweather-italic-webfont.svg#merriweather-italic) format("svg");
     }
 }
 
 @font-face {
     font-family: merriweather-bolditalic;
-    src: url(css/fonts/merriweather-bolditalic-webfont.eot);
-    src: url(css/fonts/merriweather-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(css/fonts/merriweather-bolditalic-webfont.woff) format("woff"),url(css/fonts/merriweather-bolditalic-webfont.ttf) format("truetype"),url(css/fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
+    src: url(fonts/merriweather-bolditalic-webfont.eot);
+    src: url(fonts/merriweather-bolditalic-webfont.eot?#iefix) format("embedded-opentype"),url(fonts/merriweather-bolditalic-webfont.woff) format("woff"),url(fonts/merriweather-bolditalic-webfont.ttf) format("truetype"),url(fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
     font-weight: 300;
     font-style: normal;
 }
@@ -2201,7 +2201,7 @@ table {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family:merriweather-bolditalic;
-        src: url(css/fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
+        src: url(fonts/merriweather-bolditalic-webfont.svg#merriweather-bolditalic) format("svg");
     }
 }
 
