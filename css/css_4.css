@@ -994,7 +994,7 @@ a.readmore:after,.readmore:after {
 }
 
 #page-wrapper {
-    background: transparent url(/sites/all/themes/cstbase/images/body-header-star.png) no-repeat center top;
+    background: transparent url(images/body-header-star.png) no-repeat center top;
 }
 
 .l-page {
@@ -1542,7 +1542,7 @@ nav h2 {
 }
 
 #block-search-form .form-type-textfield input {
-    background: url(/sites/all/themes/cstbase/images/search-icon.png) no-repeat scroll 12px center #ededed;
+    background: url(images/search-icon.png) no-repeat scroll 12px center #ededed;
     border: 1px solid #CCCCCC;
     color: transparent;
     cursor: pointer;
@@ -1565,7 +1565,7 @@ nav h2 {
         -ms-border-radius: 5px;
         -o-border-radius: 5px;
         border-radius: 5px;
-        background: url(/sites/all/themes/cstbase/images/search-icon.png) no-repeat scroll 9px center #ededed;
+        background: url(images/search-icon.png) no-repeat scroll 9px center #ededed;
         height: 35px;
         width: 200px;
     }
@@ -2588,7 +2588,7 @@ td.views-field-field-form-file,td.views-field-field-form-file-doc {
 }
 
 #header-outline {
-    background-image: url(/sites/all/themes/adaptive/images/bg-header-repeat-adaptive.jpg?1468596881);
+    background-image: url(images/bg-header-repeat-adaptive.jpg);
     background-repeat: repeat-x;
     background-position: top left;
     -webkit-background-size: 100% 170px;
@@ -3498,11 +3498,11 @@ input[type="submit"] {
 }
 
 #header-outline {
-    background-image: url(/sites/all/themes/district/images/bg-header-repeat-district.jpg);
+    background-image: url(images/bg-header-repeat-district.jpg);
 }
 
 #header-outline .l-header {
-    background: #5d0203 url(/sites/all/themes/district/images/body-header-star-district.jpg) no-repeat center top;
+    background: #5d0203 url(images/body-header-star-district.jpg) no-repeat center top;
 }
 
 .l-region--header .menu-block-wrapper ul {
