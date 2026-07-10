@@ -1,0 +1,169 @@
+.l-page,.l-header,.l-welcome,.l-main,.l-triptych,.l-footer {
+    *zoom:1;max-width: 1190px;
+    _width: 1190px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.l-page:after,.l-header:after,.l-welcome:after,.l-main:after,.l-triptych:after,.l-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.l-region--highlighted,.l-region--help,.l-region--welcome-links,.l-region--featured,.l-region--sidebar-first,.l-region--sidebar-second,.l-region--sub-content-left,.l-region--sub-content-center,.l-region--sub-content-right,.l-region--triptych-first,.l-region--triptych-middle,.l-region--triptych-last {
+    margin-bottom: 20px;
+}
+
+@media (min-width: 48em) {
+    .l-page,.l-header,.l-main,.l-triptych,.l-footer {
+        max-width:1190px;
+    }
+
+    .l-branding {
+        width: 100%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--header {
+        width: 100%;
+        float: right;
+        margin-right: 0;
+    }
+
+    .l-region--navigation {
+        clear: both;
+    }
+
+    .l-region--welcome-links {
+        width: 23.72881%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--featured {
+        width: 74.57627%;
+        float: right;
+        margin-right: 0;
+    }
+
+    .l-region--sub-content-left,.l-region--sub-content-center,.l-region--sub-content-right,.l-region--triptych-first,.l-region--triptych-middle,.l-region--triptych-last {
+        width: 32.20339%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--sub-content-right,.l-region--triptych-last {
+        float: right;
+        margin-right: 0;
+        clear: none;
+    }
+}
+
+@media (min-width: 60em) {
+    .l-page,.l-header,.l-main,.l-triptych,.l-footer {
+        max-width:1190px;
+    }
+
+    .l-branding {
+        width: 100%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--header {
+        width: 100%;
+        float: right;
+        margin-right: 0;
+    }
+
+    .l-region--welcome-links {
+        width: 23.72881%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--featured {
+        float: right;
+        margin-right: 0;
+        clear: none;
+    }
+
+    .has-sidebar-first .l-content {
+        width: 74.57627%;
+        float: right;
+        margin-right: 0;
+    }
+
+    .has-sidebar-first .l-region--sidebar-first {
+        width: 23.72881%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .has-sidebar-second .l-content {
+        width: 74.57627%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .has-sidebar-second .l-region--sidebar-second {
+        width: 23.72881%;
+        float: right;
+        margin-right: 0;
+        clear: none;
+    }
+
+    .has-two-sidebars .l-content {
+        width: 49.15254%;
+        float: left;
+        margin-right: 1.69492%;
+        margin-left: 25.42373%;
+    }
+
+    .has-two-sidebars .l-region--sidebar-first,.has-two-sidebars .l-region--sidebar-second {
+        width: 23.72881%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .has-two-sidebars .l-region--sidebar-first {
+        margin-left: -76.27119%;
+    }
+
+    .has-two-sidebars .l-region--sidebar-second {
+        float: right;
+        margin-right: 0;
+        clear: none;
+    }
+
+    .l-region--sub-content-left,.l-region--sub-content-center,.l-region--sub-content-right,.l-region--triptych-first,.l-region--triptych-middle,.l-region--triptych-last {
+        width: 32.20339%;
+        float: left;
+        margin-right: 1.69492%;
+    }
+
+    .l-region--sub-content-right,.l-region--triptych-last {
+        float: right;
+        margin-right: 0;
+        clear: none;
+    }
+}
+
+.oho-site-alert-message {
+    background-color: #e31c3d;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.oho-site-alert-message a:link {
+    color: #FFFFFF;
+}
+
+.oho-site-alert-message a:visited {
+    color: #FFFFFF;
+}
